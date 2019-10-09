@@ -1,6 +1,6 @@
 # Como organizar slides de aulas com LaTeX e git
 
-
+Feito Casão.
 
 - Crie um subdiretório específico para cada aula. Esse diretório só terá o arquivo `.tex` e as figuras específicas para a aula em questão.
   - Quando fizer uma nova aula, use modelo o arquivo `.tex` de uma das aulas anteriores.
